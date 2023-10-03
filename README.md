@@ -1,4 +1,4 @@
-# nqueens
+# N Queen Problem
 A simple GA algorithm is described as follows:
 1. Create a random populattion of potential solutions consistng of n individuals
 (initial populations).
